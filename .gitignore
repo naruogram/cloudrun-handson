@@ -61,3 +61,5 @@ terraform.tfvars
 
 # original ----------------------------------------
 .idea/
+private.key
+cnsrun.crt
